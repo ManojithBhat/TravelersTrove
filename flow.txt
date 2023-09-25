@@ -1,0 +1,7 @@
+first organise the files 
+* download the files images if requeired 
+
+use size in rem or % to make the website responsive later 
+always prefered to use em for padding and margin--taken wrt parent font-size;
+
+fontawsome.com
